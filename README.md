@@ -1,9 +1,12 @@
 # Intelligent Resume Analyzer
 
-This project is automatically generated.
+This project analyzes resume text and compares it with job requirements.
 
-## Installation
+Features:
+- Extracts name, email, and skills
+- Matches skills with job requirements
+- Generates match score
+- Provides recommendation
 
-```sh
-pip install -r requirements.txt
-```
+Run:
+python resume_analyzer.py
