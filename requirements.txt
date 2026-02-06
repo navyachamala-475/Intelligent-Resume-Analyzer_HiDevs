@@ -1,0 +1,3 @@
+# Project dependencies
+# No external libraries required
+# Uses Python built-in modules (json, re)
